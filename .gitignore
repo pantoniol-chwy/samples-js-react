@@ -12,7 +12,6 @@ samples-java-spring
 custom-login/src/.samples.config.js--
 okta-hosted-login/src/.samples.config.js--
 .samples.config.js--
-testenv
 .yalc
 .env
 .idea/
